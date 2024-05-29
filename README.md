@@ -2,7 +2,7 @@
 
 
 ## 📒 Descrição
-Utilizeis IAs generativas para fazer esse curto e-book sobre Inteligencias Artificiais Generativas
+Utilizei IAs generativas para fazer esse curto e-book sobre Inteligencias Artificiais Generativas
 
 ## 🤖 Tecnologias Utilizadas
 - Chat-GPT: roterizar o conteudo do e-book
